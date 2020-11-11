@@ -1,6 +1,8 @@
 # Awesome Ceramic
 A list of awesome projects from the Ceramic ecosystem.
 
+> This repository helps others discover and try projects built on Ceramic. Create a Pull Request to add your project.
+
 | Project | Category | Subcategory | Description | Status |
 | ---- | ---- | ----- | ---- | ---- |
 | SignChain | Application | Agreements | Decentralized document signing application | Hackathon |
