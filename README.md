@@ -2,6 +2,7 @@
 A list of awesome projects from the Ceramic ecosystem.
 
 > This repository helps others discover and try projects built on Ceramic. Create a Pull Request to add your project.
+</br>
 
 | Project | Category | Subcategory | Description | Status |
 | ---- | ---- | ----- | ---- | ---- |
