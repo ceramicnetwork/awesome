@@ -37,8 +37,8 @@ Space - Platform for team file sharing and collaboration (In Development)
 
 
 ### Other resources 
-[Video workshops and demos] (https://studio.youtube.com/channel/UCgCLq5dx7sX-yUrrEbtYqVw/playlists)
+[Video workshops and demos](https://studio.youtube.com/channel/UCgCLq5dx7sX-yUrrEbtYqVw/playlists)
 
-[Tutorials] (https://blog.ceramic.network/tag/tutorials)
+[Tutorials](https://blog.ceramic.network/tag/tutorials)
 
-[Documentation] (https://docs.ceramic.network/)
+[Documentation](https://docs.ceramic.network/)
