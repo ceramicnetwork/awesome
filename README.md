@@ -16,11 +16,13 @@ Self.ID - A simple application to manage profile information and account links o
 
 Space - Platform for team file sharing and collaboration (In Development) 
 
-[Geolocker] (https://github.com/VaultLabs/SkyDB_Project) - Application for managing STACS (spacial temporal asset catalogues) using IDX and Skynet for mapping and geo data 
+[Geolocker](https://github.com/VaultLabs/SkyDB_Project) - Application for managing STACS (spacial temporal asset catalogues) using IDX and Skynet for mapping and geo data 
 
 [Shroom](https://siasky.net/_BkkdrbkM1Y0CLrI27zZF_xT_FH8R1kNcXqJrRq-bQVpQA/) - Codepen clone using IDX for authentication (Hackathon) 
 
 [Vault](https://github.com/sergejmueller/vault-ceramic) - Decentralized password manager using IDX for authentication and data management (Hackathon)  
+
+[Kontext.app](http://kontext.app/) - A social bookmarking app using Ceramic to store web2 likes and ratings, and IDX for authentication.
 
 ### Extensions
 [Cameo](https://www.youtube.com/watch?v=dQ4KovmxEZY&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=3) - A browser extension for managing identity information 
