@@ -6,6 +6,9 @@ A list of awesome projects from the Ceramic ecosystem.
 
 
 ### Apps
+
+[Geo Web](https://www.geoweb.network/) - A system for anchoring digital content to physical land
+
 [Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) - A simple app to manage profiles on IDX and Ceramic (Hackathon)
 
 [SignChain](https://www.youtube.com/watch?v=XZy307J-0dI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=2) - Decentralized document signing platform (Hackathon)
