@@ -32,7 +32,9 @@ Space - Platform for team file sharing and collaboration (In Development)
 
 
 ### Developer Tools 
-[`3id-did-provider-web`](https://github.com/ceramicstudio/3id-connect) - Hosted 3ID DID Provider for interacting with Ceramic from the browser 
+[Ceramic Document Viewer](https://ceramic.mechanaut.xyz/) - Simple web app to view the contents of Ceramic documents
+
+[`3id-connect`](https://github.com/ceramicstudio/3id-connect) - Hosted 3ID DID Provider for interacting with Ceramic from the browser 
 
 [`3id-did-provider`](https://github.com/3box/identity-wallet-js) - 3ID DID Provider for interacting with Ceramic 
 
