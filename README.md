@@ -1,37 +1,35 @@
-# Awesome Ceramic
-A list of awesome projects from the Ceramic ecosystem.
+# Awesome Ceramic ✨
+A list of awesome projects from across the Ceramic Network ecosystem.
 
-> This repository helps others discover and try projects built on Ceramic. Create a Pull Request to add your project.
+Create a Pull Request to add your project.
 </br>
+## Adding your project
+Simply create a pull request adding your project.
 
+## Awesome List
 
-### Apps
+### Applications
 
-[Geo Web](https://www.geoweb.network/) - A system for anchoring digital content to physical land
+| Name                                                                                                    | Status      | Description |
+| ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| [Geo Web](https://www.geoweb.network/)                                                                  | Alpha       | A system for anchoring digital content to physical land |
+| [Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) | Hackathon   | A simple app to manage profiles on IDX and Ceramic |
+| [SignChain](https://signchain.xyz)                                                                      | Alpha       | Decentralized document signing platform |
+| Self.ID                                                                                                 | Development | A web app to manage profile information and other IDX records |
+| [$upplyChainHub](https://www.youtube.com/watch?v=NeOLXg60ikI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=4) | Hackathon | Supply chain creation application with real-time decentralized chat |
+| Space                                                                                                   | Development | Platform for team file sharing and collaboration |
+| [Geolocker](https://github.com/VaultLabs/SkyDB_Project)                                                 | Hackathon   | App for managing STACS (spacial temporal asset catalogues) using IDX and Skynet for mapping and geo data |
+| [Shroom](https://siasky.net/_BkkdrbkM1Y0CLrI27zZF_xT_FH8R1kNcXqJrRq-bQVpQA/)                            | Hackathon   | Codepen clone using IDX and 3ID Connect for authentication |
+| [Vault](https://github.com/sergejmueller/vault-ceramic)                                                 | Hackathon   | Decentralized password manager using 3ID Connect for auth and IDX for data management  |
+| [Kontext.app](http://kontext.app/)                                                                      | Development | Social bookmarking app using Ceramic to store web2 likes and ratings, IDX for identity, and 3ID Connect for auth |
 
-[Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) - A simple app to manage profiles on IDX and Ceramic (Hackathon)
+### Browser Extensions
 
-[SignChain](https://www.youtube.com/watch?v=XZy307J-0dI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=2) - Decentralized document signing platform (Hackathon)
-
-Self.ID - A simple application to manage profile information and account links on IDX and Ceramic (In Development) 
-
-[$upplyChainHub](https://www.youtube.com/watch?v=NeOLXg60ikI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=4) - Supply chain creation application with real-time decentralized chat (Hackathon) 
-
-Space - Platform for team file sharing and collaboration (In Development) 
-
-[Geolocker](https://github.com/VaultLabs/SkyDB_Project) - Application for managing STACS (spacial temporal asset catalogues) using IDX and Skynet for mapping and geo data 
-
-[Shroom](https://siasky.net/_BkkdrbkM1Y0CLrI27zZF_xT_FH8R1kNcXqJrRq-bQVpQA/) - Codepen clone using IDX for authentication (Hackathon) 
-
-[Vault](https://github.com/sergejmueller/vault-ceramic) - Decentralized password manager using IDX for authentication and data management (Hackathon)  
-
-[Kontext.app](http://kontext.app/) - A social bookmarking app using Ceramic to store web2 likes and ratings, and IDX for authentication.
-
-### Extensions
 [Cameo](https://www.youtube.com/watch?v=dQ4KovmxEZY&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=3) - A browser extension for managing identity information 
 
 
-### Developer Tools 
+### Developer Tools
+
 [Ceramic Document Viewer](https://ceramic.mechanaut.xyz/) - Simple web app to view the contents of Ceramic documents
 
 [`3id-connect`](https://github.com/ceramicstudio/3id-connect) - Hosted 3ID DID Provider for interacting with Ceramic from the browser 
