@@ -1,8 +1,6 @@
 # Awesome Ceramic ✨
 A list of awesome projects from across the Ceramic Network ecosystem.
 
-Create a Pull Request to add your project.
-</br>
 ## Adding your project
 Simply create a pull request adding your project.
 
