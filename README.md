@@ -29,10 +29,8 @@ Simply create a pull request adding your project.
 | [Crypto Plants](https://superplants.crypto/)                                                            | Hackathon   | A crowd-funding platform for environmental and social causes with NFTs |
 | [IDX Ceramic Todos](https://eth.iwahi.com/home)                                                         | Hackathon   | A simple to-do app that uses Ceramic to securely store to-dos in smart documents |
 | [Furball](https://github.com/simondpalmer/furball_dapp)                                                 | Hackathon   | Steganographically-linked NFT art marketplace |
-| [ϡ](ipns://sampi.on.fleek.co/)                                                 | Development   |Write and publish censorship-proof articles with verifiable signatures from authors |
 | [Star Relay](http://66.42.93.16/)                                                                       | Hackathon   | ⭐Film yourself doing something cool and challenge your friends and their friends to do the same! Own the historical moments of video relay challenges and sponsor your favourite charity cause! |
-
-
+| [Sampi](https://sampi.on.fleek.co/#/)                                                                   | Hackathon   | Write, publish, and curate censorship-proof multi-media posts. Follow the feeds of other content creators and subscribe to ActivityStreams using HTTP (similar to RSS). |
 
 
 ### Browser Extensions
@@ -47,11 +45,12 @@ Simply create a pull request adding your project.
 | [Tiles](https://ceramic.mechanaut.xyz/)                                                                 | Beta        | 👁Tiles is a document browser and explorer that gives insight into all the real-time activity happening on Ceramic |
 | [Documint](https://documint.net/)                                                                       | Beta        | An IDE for Ceramic - view, create, and edit smart documents from the browser |
 | [Identity Legos](https://github.com/All-in-on-IDX)                                                      | Hackathon   | A UI for verifying Github and Twitter accounts with IdentityLink; Code that integrates IDX with Sourcecred; and more |
-| [3ID Connect](https://github.com/ceramicstudio/3id-connect)                                           | Beta        | 3ID authentication system for Ceramic that works with any blockchain wallet |
+| [3ID Connect](https://github.com/ceramicstudio/3id-connect)                                             | Beta        | 3ID authentication system for Ceramic that works with any blockchain wallet |
 | [`3id-did-provider`](https://github.com/3box/identity-wallet-js)                                        | Beta        | 3ID DID Provider |
 | [IdentityLink](https://github.com/ceramicstudio/identitylink-services)                                  | Beta        | Services for issuing verifiable credentials that link a decentralized identifier (DID) to various social accounts including Twitter, Github, and Discord. |
 | [Web Playground](https://playground.ceramic.dev)                                                        | Beta        | A simple web app that demos Ceramic, IDX, and 3ID Connect |
 | [IDX](https://idx.xyz)                                                                                  | Beta        | Cross-chain protocol for decentralized identity, user management, and interoperable data |
+| [Ceramic Form](https://ceramic-form.on.fleek.co/?def=BasicProfile)                                      | Beta        | Auto-create UI forms based on the schema of a Ceramic document |
 
 
 ### Other resources 
