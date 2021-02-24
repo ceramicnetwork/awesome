@@ -42,7 +42,7 @@ Simply create a pull request adding your project.
 | Name                                                                                                    | Status      | Description |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
 | [Tiles](https://ceramic.mechanaut.xyz/)                                                                 | Beta        | 👁Tiles is a document browser and explorer that gives insight into all the real-time activity happening on Ceramic |
-| [Documint](https://documint.net/)                                                                       | Beta        | An IDE for Ceramic - view, create, and edit smart documents |
+| [Documint](https://documint.net/)                                                                       | Beta        | An IDE for Ceramic - view, create, and edit smart documents from the browser |
 | [Identity Legos](https://github.com/All-in-on-IDX)                                                      | Hackathon   | A UI for verifying Github and Twitter accounts with IdentityLink; Code that integrates IDX with Sourcecred; and more |
 | [3ID Connect](https://github.com/ceramicstudio/3id-connect)                                           | Beta        | 3ID authentication system for Ceramic that works with any blockchain wallet |
 | [`3id-did-provider`](https://github.com/3box/identity-wallet-js)                                        | Beta        | 3ID DID Provider |
