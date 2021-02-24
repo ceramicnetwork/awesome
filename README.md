@@ -29,7 +29,10 @@ Simply create a pull request adding your project.
 | [Crypto Plants](https://superplants.crypto/)                                                            | Hackathon   | A crowd-funding platform for environmental and social causes with NFTs |
 | [IDX Ceramic Todos](https://eth.iwahi.com/home)                                                         | Hackathon   | A simple to-do app that uses Ceramic to securely store to-dos in smart documents |
 | [Furball](https://github.com/simondpalmer/furball_dapp)                                                 | Hackathon   | Steganographically-linked NFT art marketplace |
+| [ϡ](ipns://sampi.on.fleek.co/)                                                 | Development   |Write and publish censorship-proof articles with verifiable signatures from authors |
 | [Star Relay](http://66.42.93.16/)                                                                       | Hackathon   | ⭐Film yourself doing something cool and challenge your friends and their friends to do the same! Own the historical moments of video relay challenges and sponsor your favourite charity cause! |
+
+
 
 
 ### Browser Extensions
