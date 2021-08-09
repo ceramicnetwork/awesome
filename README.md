@@ -58,6 +58,6 @@ Follow the feeds of other content creators and subscribe to ActivityStreams usin
 
 ### Other resources 
 
-- [Video workshops and demos](https://studio.youtube.com/channel/UCgCLq5dx7sX-yUrrEbtYqVw/playlists)
+- [Video workshops and demos](https://youtube.com/channel/UCgCLq5dx7sX-yUrrEbtYqVw/playlists)
 - [Tutorials](https://blog.ceramic.network/tag/tutorials)
 - [Documentation](https://developers.ceramic.network/)
