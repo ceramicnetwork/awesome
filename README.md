@@ -32,6 +32,7 @@ Simply create a pull request adding your project.
 | [Star Relay](http://66.42.93.16/)                                                                       | Hackathon   | ⭐Film yourself doing something cool and challenge your friends and their friends to do the same! Own the historical moments of video relay challenges and sponsor your favourite charity cause! |
 | [Sampi](https://sampi.on.fleek.co/#/)                                                                   | Hackathon   | Write, publish, and curate censorship-proof multi-media posts. 
 | [NEAR Personas](https://nearpersonas.com)                                                               | Development | Create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
+| [Watchhh](https://github.com/Janmajayamall/Watchhh)                                                     | Hackathon   | A censorship / takedown resistant archiving tool for twitter.
 
 Follow the feeds of other content creators and subscribe to ActivityStreams using HTTP (similar to RSS). |
 
