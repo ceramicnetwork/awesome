@@ -54,6 +54,7 @@ Follow the feeds of other content creators and subscribe to ActivityStreams usin
 | [Web Playground](https://playground.ceramic.dev)                                                        | Beta        | A simple web app that demos Ceramic, IDX, and 3ID Connect |
 | [IDX](https://idx.xyz)                                                                                  | Beta        | Cross-chain protocol for decentralized identity, user management, and interoperable data |
 | [Ceramic Form](https://ceramic-form.on.fleek.co/?def=BasicProfile)                                      | Beta        | Auto-create UI forms based on the schema of a Ceramic document |
+| [Data Wallet](https://showcase.ethglobal.co/hackfs2021/2c-%F0%9F%91%9B-the-data-wallet-%F0%9F%A5%82-byof-marketplace)                                      | Hackathon        | Data Wallet hosts social graphs of trusted people, so that any dApp can load data curated by specific communities. (Seeking grants for production launch) |
 
 
 ### Other resources 
