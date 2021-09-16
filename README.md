@@ -11,6 +11,7 @@ Simply create a pull request adding your project.
 | Name                                                                                                    | Status      | Description |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
 | [Geo Web](https://www.geoweb.network/)                                                                  | Alpha       | A system for anchoring digital content to physical land |
+| [HOPR Leaderboard](https://network.hoprnet.org/)                                                        | Alpha       | A dashboard to showcase and identify all existing [HOPR](https://hoprnet.org/) nodes in the network |
 | [Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) | Hackathon   | A simple app to manage profiles on IDX and Ceramic |
 | [SignChain](https://signchain.xyz)                                                                      | Alpha       | Decentralized document signing platform |
 | Self.ID                                                                                                 | Development | A web app to manage profile information and other IDX records |
