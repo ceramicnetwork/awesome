@@ -12,6 +12,7 @@ Simply create a pull request adding your project.
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
 | [Dataverse](https://dataverse.art/)                                                                  | Beta       | Your private space for curating multi-media NFTs from around the web |
 | [Geo Web](https://www.geoweb.network/)                                                                  | Alpha       | A system for anchoring digital content to physical land |
+| [MuseX](https://www.musex.io/)                                                                          | Alpha       | Thought, Ownership, Circulation. A content ownership protocol |
 | [Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) | Hackathon   | A simple app to manage profiles on IDX and Ceramic |
 | [SignChain](https://signchain.xyz)                                                                      | Alpha       | Decentralized document signing platform |
 | Self.ID                                                                                                 | Development | A web app to manage profile information and other IDX records |
