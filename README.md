@@ -38,7 +38,7 @@ Simply create a pull request adding your project.
 | [CheckoutFS](https://github.com/cbonoz/hackfs21)                                                        | Hackathon   | A prototype app that enables creating no-code checkout storefronts on IPFS with metadata stored in Ceramic streams.
 | [Doxx](https://doxx.link/)                                                                              | Hackathon   | A Notion-inspired web3 notebook built around ENS+IDX |
 | [Watchhh](https://github.com/Janmajayamall/Watchhh)                                                     | Hackathon   | A censorship / takedown resistant archiving tool for twitter.
-| [Catalyst](https://catalystdao.com)                                                               | Development | DAOSaas platform built with NEAR/Ceramic. Create and manage a community DAO with support to create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
+| [Catalyst](https://vitalpoint.ai/catalyst)                                                               | Development | DAOSaas platform built with NEAR/Ceramic. Create and manage a community DAO with support to create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
 Follow the feeds of other content creators and subscribe to ActivityStreams using HTTP (similar to RSS). |
 
 
