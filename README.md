@@ -10,6 +10,7 @@ Simply create a pull request adding your project.
 
 | Name                                                                                                    | Status      | Description |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| [DDshare](https://ddshare.io/)                                                                                | Development        | Building Decentralized Data Sharing Infrastructure Based on Ceramic,IFPS&FileCoin and ISCN. Designed to store and share humanity's data|
 | [HiÐΞ](https://hide.ac/)                                                                                | Beta        | An offline-first decentralized CMS powered by a sustainable reward distribution protocol on Ethereum L2 / sidechains |
 | [Dataverse](https://dataverse.art/)                                                                  | Beta       | Your private space for curating multi-media NFTs from around the web |
 | [Geo Web](https://www.geoweb.network/)                                                                  | Alpha       | A system for anchoring digital content to physical land |
