@@ -36,10 +36,9 @@ Simply create a pull request adding your project.
 | [Star Relay](http://66.42.93.16/)                                                                       | Hackathon   | ⭐Film yourself doing something cool and challenge your friends and their friends to do the same! Own the historical moments of video relay challenges and sponsor your favourite charity cause! |
 | [Sampi](https://sampi.on.fleek.co/#/)                                                                   | Hackathon   | Write, publish, and curate censorship-proof multi-media posts. 
 | [CheckoutFS](https://github.com/cbonoz/hackfs21)                                                        | Hackathon   | A prototype app that enables creating no-code checkout storefronts on IPFS with metadata stored in Ceramic streams.
-| [NEAR Personas](https://nearpersonas.com)                                                               | Development | Create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
 | [Doxx](https://doxx.link/)                                                                              | Hackathon   | A Notion-inspired web3 notebook built around ENS+IDX |
 | [Watchhh](https://github.com/Janmajayamall/Watchhh)                                                     | Hackathon   | A censorship / takedown resistant archiving tool for twitter.
-
+| [Catalyst](https://vitalpoint.ai/catalyst)                                                               | Development | DAOSaas platform built with NEAR/Ceramic. Create and manage a community DAO with support to create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
 Follow the feeds of other content creators and subscribe to ActivityStreams using HTTP (similar to RSS). |
 
 
