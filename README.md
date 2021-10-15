@@ -14,6 +14,7 @@ Simply create a pull request adding your project.
 | [HiÐΞ](https://hide.ac/)                                                                                | Beta        | An offline-first decentralized CMS powered by a sustainable reward distribution protocol on Ethereum L2 / sidechains |
 | [Dataverse](https://dataverse.art/)                                                                  | Beta       | Your private space for curating multi-media NFTs from around the web |
 | [Geo Web](https://www.geoweb.network/)                                                                  | Alpha       | A system for anchoring digital content to physical land |
+| [Cybertino](https://cybertinolab.com/)                                                                  | Development       | A decentralized social graph protocol and Web 3.0 infrastructure that is blockchain-agnostic and openly accessible. |
 | [HOPR Leaderboard](https://network.hoprnet.org/)                                                        | Alpha       | A dashboard to showcase and identify all existing [HOPR](https://hoprnet.org/) nodes in the network |
 | [MuseX](https://www.musex.io/)                                                                          | Alpha       | Thought, Ownership, Circulation. A content ownership protocol |
 | [Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) | Hackathon   | A simple app to manage profiles on IDX and Ceramic |
