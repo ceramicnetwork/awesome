@@ -10,11 +10,12 @@ Simply create a pull request adding your project.
 
 | Name                                                                                                    | Status      | Description |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-| [DDshare](https://ddshare.io/)                                                                                | Development        | Building Decentralized Data Sharing Infrastructure Based on Ceramic,IFPS&FileCoin and ISCN. Designed to store and share humanity's data|
+| [FungyProof](https://fungyproof.com)                                                                    | Beta        | FungyProof is a new way to grade, enrich, and display NFTs. Check your NFT for 30+ data points then improve your grade with an NFT Case. |
+| [DDshare](https://ddshare.io/)                                                                          | Development | Building Decentralized Data Sharing Infrastructure Based on Ceramic,IFPS&FileCoin and ISCN. Designed to store and share humanity's data|
 | [HiÐΞ](https://hide.ac/)                                                                                | Beta        | An offline-first decentralized CMS powered by a sustainable reward distribution protocol on Ethereum L2 / sidechains |
-| [Dataverse](https://dataverse.art/)                                                                  | Beta       | Your private space for curating multi-media NFTs from around the web |
+| [Dataverse](https://dataverse.art/)                                                                     | Beta        | Your private space for curating multi-media NFTs from around the web |
 | [Geo Web](https://www.geoweb.network/)                                                                  | Alpha       | A system for anchoring digital content to physical land |
-| [Cybertino](https://cybertinolab.com/)                                                                  | Development       | A decentralized social graph protocol and Web 3.0 infrastructure that is blockchain-agnostic and openly accessible. |
+| [Cybertino](https://cybertinolab.com/)                                                                  | Development | A decentralized social graph protocol and Web 3.0 infrastructure that is blockchain-agnostic and openly accessible. |
 | [HOPR Leaderboard](https://network.hoprnet.org/)                                                        | Alpha       | A dashboard to showcase and identify all existing [HOPR](https://hoprnet.org/) nodes in the network |
 | [MuseX](https://www.musex.io/)                                                                          | Alpha       | Thought, Ownership, Circulation. A content ownership protocol |
 | [Aletheia](https://www.youtube.com/watch?v=lCnc9H-vKzI&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=1) | Hackathon   | A simple app to manage profiles on IDX and Ceramic |
@@ -40,20 +41,22 @@ Simply create a pull request adding your project.
 | [CheckoutFS](https://github.com/cbonoz/hackfs21)                                                        | Hackathon   | A prototype app that enables creating no-code checkout storefronts on IPFS with metadata stored in Ceramic streams.
 | [Doxx](https://doxx.link/)                                                                              | Hackathon   | A Notion-inspired web3 notebook built around ENS+IDX |
 | [Watchhh](https://github.com/Janmajayamall/Watchhh)                                                     | Hackathon   | A censorship / takedown resistant archiving tool for twitter.
-| [Catalyst](https://vitalpoint.ai/catalyst)                                                               | Development | DAOSaas platform built with NEAR/Ceramic. Create and manage a community DAO with support to create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
+| [Catalyst](https://vitalpoint.ai/catalyst)                                                              | Development | DAOSaas platform built with NEAR/Ceramic. Create and manage a community DAO with support to create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
 Follow the feeds of other content creators and subscribe to ActivityStreams using HTTP (similar to RSS). |
 
 
 ### Browser Extensions
 
-[Cameo](https://www.youtube.com/watch?v=dQ4KovmxEZY&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=3) - A browser extension for managing identity information 
-
+| Name                                                                                                    | Status      | Description |
+| ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| [Cameo](https://www.youtube.com/watch?v=dQ4KovmxEZY&list=PL6E2ILktM1Juc1p8rgZIvg7NmI2NOwN5Z&index=3)    |             | A browser extension for managing identity information |
+| [FungyProof](https://chrome.google.com/webstore/detail/fungyproof/hclifjggbhfngpojckopbommebllpbgl)     | Beta        | View FungyProof NFT grades and cases directly on your favorite NFT marketplace. |
 
 ### Developer Tools
 
 | Name                                                                                                    | Status      | Description |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-| [Tiles](https://tiles.ceramic.community/)                                                                 | Beta        | 👁Tiles is a document browser and explorer that gives insight into all the real-time activity happening on Ceramic |
+| [Tiles](https://tiles.ceramic.community/)                                                               | Beta        | 👁Tiles is a document browser and explorer that gives insight into all the real-time activity happening on Ceramic |
 | [Documint](https://documint.net/)                                                                       | Beta        | An IDE for Ceramic - view, create, and edit smart documents from the browser |
 | [Identity Legos](https://github.com/All-in-on-IDX)                                                      | Hackathon   | A UI for verifying Github and Twitter accounts with IdentityLink; Code that integrates IDX with Sourcecred; and more |
 | [3ID Connect](https://github.com/ceramicstudio/3id-connect)                                             | Beta        | 3ID authentication system for Ceramic that works with any blockchain wallet |
