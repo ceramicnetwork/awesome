@@ -43,7 +43,7 @@ Simply create a pull request adding your project.
 | [Doxx](https://doxx.link/)                                                                              | Hackathon   | A Notion-inspired web3 notebook built around ENS+IDX |
 | [Watchhh](https://github.com/Janmajayamall/Watchhh)                                                     | Hackathon   | A censorship / takedown resistant archiving tool for twitter.
 | [Catalyst](https://vitalpoint.ai/catalyst)                                                              | Development | DAOSaas platform built with NEAR/Ceramic. Create and manage a community DAO with support to create and manage multiple digital identities (personas) in one place. Integrate Personas into your apps and instantly access rich profile data for your users. |
-| 🐙 [MetaGame](//metagame.wtf) 🐙 | Beta | An attempt to gamify web3 onboarding and a new economy. The primary piece of work currently is [MyMeta](//metagame.wtf/players/) which is a [SourceCred](//sourcecred.io) leaderboard & Ceramic-backed [profiles](//metagame.wtf/me) system. |
+| 🐙 [MetaGame](//metagame.wtf) 🐙 | Beta | An attempt to gamify web3 onboarding and a new economy. The primary piece of work currently is [MyMeta](//metagame.wtf/players/), which is a [SourceCred](//sourcecred.io) leaderboard & Ceramic-backed [profiles](//metagame.wtf/me) system. |
 
 ### Browser Extensions
 
