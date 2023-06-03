@@ -66,6 +66,7 @@ Simply create a pull request adding your project.
 | [IDX](https://idx.xyz)                                                                                  | Beta        | Cross-chain protocol for decentralized identity, user management, and interoperable data |
 | [Ceramic Form](https://ceramic-form.on.fleek.co/?def=BasicProfile)                                      | Beta        | Auto-create UI forms based on the schema of a Ceramic document |
 | [Data Wallet](https://showcase.ethglobal.co/hackfs2021/2c-%F0%9F%91%9B-the-data-wallet-%F0%9F%A5%82-byof-marketplace)                                      | Hackathon        | Data Wallet hosts social graphs of trusted people, so that any dApp can load data curated by specific communities. (Seeking grants for production launch) |
+| [S3 Data Explorer](https://scan.s3.xyz)                                      | Beta        | S3 scan is an open sourced data & models explorer with visual composeDB editor support |
 
 
 ### Other resources 
